@@ -47,8 +47,6 @@ Common Mistake:
 
 package matrix;
 
-import java.util.Arrays;
-
 class Solution {
 
     public void setZeroes(int[][] matrix) {
