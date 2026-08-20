@@ -35,7 +35,8 @@ Optimization:
 
 =========================================================
 */
-package strings;
+
+
 class Solution {
     public boolean isPalindrome(String s) {
 
